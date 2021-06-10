@@ -1,1 +1,1 @@
-web: node src/erver.ts
+web: node src/server.ts
